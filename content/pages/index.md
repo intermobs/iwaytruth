@@ -4,12 +4,14 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Way Truth & Life Tabernacle 
+      text: Way Truth & Life Tabernacle
       color: text-dark
       type: TitleBlock
-    subtitle: We worship One GOD Almighty!
+    subtitle: We Worship
     text: >
-      We a dedicated in Saving lost souls and worshipping OUR LORD and Saviour for He is Worthy to be praised. 
+      A Netlify Create website is a git repo that you own. Every code commit is
+      instantly reflected in the visual editor and since every visual edit is a
+      git commit, git workflows and collaboration just work.
     actions:
       - label: Join Us
         altText: ''
@@ -34,7 +36,7 @@ sections:
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
-badge:
+    badge:
       label: 
       color: text-primary
       type: Badge
@@ -737,8 +739,8 @@ badge:
     colors: bg-light-fg-dark
     type: GenericSection
 seo:
-  metaTitle: Home - Demo WTLT
-  metaDescription: This is our church website.
+  metaTitle: Home - WTLT
+  metaDescription: This is Our Church.
   socialImage: /images/main-hero.jpg
   type: Seo
 type: PageLayout
