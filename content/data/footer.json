@@ -103,7 +103,7 @@
             "type": "Link"
         }
     ],
-    "copyrightText": "Powered by [Netlify](https://www.netlify.com/)\n",
+    "copyrightText": "Copyright [WTLT](https://www.waytruth.netlify.app/)\n",
     "colors": "bg-dark-fg-light",
     "type": "Footer"
 }
