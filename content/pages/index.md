@@ -251,7 +251,7 @@ sections:
     type: GenericSection
   - type: GenericSection
     title:
-      text: Generic section with a video
+      text: Our Videos
       color: text-dark
       styles:
         self:
