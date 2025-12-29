@@ -61,7 +61,7 @@
     },
     "socialLinks": [
         {
-            "altText": "GitHub link",
+            "altText": "Facebook link",
             "url": "https://facebook.com/Way",
             "icon": "github",
             "type": "Social"
