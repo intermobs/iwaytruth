@@ -112,10 +112,9 @@ sections:
         type: FeaturedItem
       - title: Sunday
         subtitle: Main Service
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Every Sunday, 10:00am – 12:30pm – With Apostle D Dlamini. Expect
+          miracles, healing, and life-changing Word.
         image:
           url: /images/icon3.svg
           altText: Featured icon three
