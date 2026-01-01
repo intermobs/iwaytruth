@@ -22,7 +22,7 @@
         },
         {
             "label": "Sermons",
-            "altText": "Blog",
+            "altText": "Sermons",
             "url": "/blog",
             "icon": "arrowRight",
             "iconPosition": "right",
