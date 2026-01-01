@@ -56,7 +56,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Why We Do What We Do
+    subtitle: Proclaiming the Truth of God's Word
     items:
       - type: FeaturedItem
         title: 500k
