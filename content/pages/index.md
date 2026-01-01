@@ -88,10 +88,9 @@ sections:
               borderRadius: x-large
       - title: Anointed
         subtitle: Prayer Services
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Every Tuesday & Thursday, 5:30pm – 7:00pm – Powerful times of
+          intercession and breakthrough.
         image:
           url: /images/icon2.svg
           altText: Featured icon two
@@ -112,7 +111,7 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: 200%
-        subtitle: Faster
+        subtitle: Main Service
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
