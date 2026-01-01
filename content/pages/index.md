@@ -61,10 +61,9 @@ sections:
       - type: FeaturedItem
         title: Souls
         subtitle: Reached for Christ
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          We are dedicated to leading people to salvation and deliverance
+          through the power of the Holy Spirit.
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
