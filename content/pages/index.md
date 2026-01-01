@@ -8,10 +8,7 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: We Worship
-    text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+    text: "Way Truth and Life Tabernacle is \"The Palace of Truth\" – a place where the Word of God is preached with power and authority. Led by Apostle D Dlamini, we are committed to leading souls to Jesus Christ, the only Way, the Truth, and the Life.\_\_We believe in the full gospel: salvation, healing, deliverance, and the baptism of the Holy Spirit. Join us as we worship in spirit and truth!\n"
     actions:
       - label: Join Us
         altText: ''
