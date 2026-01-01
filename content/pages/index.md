@@ -174,7 +174,7 @@ sections:
         justifyContent: center
     type: FeaturedPostsSection
     hoverEffect: move-up
-  - subtitle: We Read These Bibles
+  - subtitle: Our Foundation
     images:
       - url: /images/empathy-logo.svg
         altText: Empathy logo
