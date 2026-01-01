@@ -174,7 +174,7 @@ sections:
         justifyContent: center
     type: FeaturedPostsSection
     hoverEffect: move-up
-  - subtitle: Our Foundation
+  - subtitle: Built on God's Word
     images:
       - url: /images/empathy-logo.svg
         altText: Empathy logo
