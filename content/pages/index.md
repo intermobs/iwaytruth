@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: ''
+      text: The Palace of Truth
       color: text-dark
       type: TitleBlock
     subtitle: Join Us for Weekly Services!
