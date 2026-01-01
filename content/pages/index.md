@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Way Truth & Life Tabernacle
+      text: ''
       color: text-dark
       type: TitleBlock
     subtitle: Join Us for Weekly Services!
