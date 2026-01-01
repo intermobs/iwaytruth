@@ -59,7 +59,7 @@ sections:
     subtitle: Proclaiming the Truth of God's Word
     items:
       - type: FeaturedItem
-        title: 500k
+        title: Souls
         subtitle: Reached for Christ
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
