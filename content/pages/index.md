@@ -349,9 +349,7 @@ sections:
             flexDirection: row
             justifyContent: center
         type: FeaturedItem
-      - title: >-
-          "Design is a plan for arranging elements in such a way as best to
-          accomplish a particular purpose."
+      - title: '"A true Palace of Truth where God''s power moves!."'
         tagline: Testimonial 2
         subtitle: Babe Thili Dlamini, WTLT
         text: >-
