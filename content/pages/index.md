@@ -7,11 +7,8 @@ sections:
       text: Way Truth & Life Tabernacle
       color: text-dark
       type: TitleBlock
-    subtitle: We Worship
-    text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+    subtitle: Join Us for Weekly Services!
+    text: "\_Way Truth and Life Tabernacle is \"The Palace of Truth\" – a place of powerful worship, prayer, and preaching led by Apostle D Dlamini. Come experience Jesus Christ, the Way, the Truth, and the Life (John 14:6). All are welcome!\n"
     actions:
       - label: Join Us
         altText: ''
@@ -59,15 +56,14 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Why We Do What We Do
+    subtitle: Proclaiming the Truth of God's Word
     items:
       - type: FeaturedItem
-        title: 500k
-        subtitle: Saved Souls
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        title: Souls
+        subtitle: Reached for Christ
+        text: >
+          We are dedicated to leading people to salvation and deliverance
+          through the power of the Holy Spirit.
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
@@ -90,12 +86,11 @@ sections:
           styles:
             self:
               borderRadius: x-large
-      - title: 20x
-        subtitle: The Job Stuff
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+      - title: Anointed
+        subtitle: Prayer Services
+        text: >
+          Every Tuesday & Thursday, 5:30pm – 7:00pm – Powerful times of
+          intercession and breakthrough.
         image:
           url: /images/icon2.svg
           altText: Featured icon two
@@ -115,12 +110,11 @@ sections:
             textAlign: left
             justifyContent: center
         type: FeaturedItem
-      - title: 200%
-        subtitle: Faster
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+      - title: Sunday
+        subtitle: Main Service
+        text: >
+          Every Sunday, 10:00am – 12:30pm – With Apostle D Dlamini. Expect
+          miracles, healing, and life-changing Word.
         image:
           url: /images/icon3.svg
           altText: Featured icon three
@@ -180,7 +174,7 @@ sections:
         justifyContent: center
     type: FeaturedPostsSection
     hoverEffect: move-up
-  - subtitle: We Read These Bibles
+  - subtitle: Built on God's Word
     images:
       - url: /images/empathy-logo.svg
         altText: Empathy logo
@@ -222,25 +216,16 @@ sections:
           - pr-7
     type: DividerSection
   - title:
-      text: Grow your business 10x faster
+      text: Grow in Faith and Power
       color: text-dark
       styles:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: This is a subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
-    badge:
-      label: Key Benefits
-      color: text-primary
-      styles:
-        self:
-          textAlign: center
-      type: Badge
+    subtitle: Experience Spiritual Breakthrough
+    text: >
+      Join us at Way Truth and Life Tabernacle and encounter the life-changing
+      presence of God through anointed worship and preaching.
     colors: bg-light-fg-dark
     styles:
       self:
@@ -257,12 +242,9 @@ sections:
         self:
           textAlign: left
       type: TitleBlock
-    subtitle: Section with a video subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    subtitle: Watch Past Services & Sermons
+    text: |
+      Check out powerful messages from Apostle D Dlamini.
     actions: []
     media:
       title: Title of the video
@@ -342,10 +324,7 @@ sections:
           left to add, but when there is nothing left to take away.”
         tagline: Testimonial 1
         subtitle: Make Dlamini
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: ''
         image:
           url: /images/person-placeholder-light.png
           altText: Maria Walters
@@ -367,15 +346,12 @@ sections:
             flexDirection: row
             justifyContent: center
         type: FeaturedItem
-      - title: >-
-          "Design is a plan for arranging elements in such a way as best to
-          accomplish a particular purpose."
+      - title: '"A true Palace of Truth where God''s power moves!."'
         tagline: Testimonial 2
         subtitle: Babe Thili Dlamini, WTLT
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: |+
+
+
         image:
           url: /images/person-placeholder-light.png
           altText: John Doe
