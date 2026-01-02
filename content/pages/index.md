@@ -53,7 +53,7 @@ sections:
       - type: FeaturedItem
         title: Social Media Management
         tagline: Physical Service
-        subtitle: Increase your reach
+        subtitle: SUNDAY 10:00 AM - 12:30 PM
         text: |
           WTLT, NHLANGANO
         image:
