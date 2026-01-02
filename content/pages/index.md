@@ -81,7 +81,7 @@ sections:
       - type: FeaturedItem
         title: Business Consulting
         tagline: Online Service
-        subtitle: Be in good company
+        subtitle: THURSDAYS 11:00AM
         text: |+
           *   VOC FM 
 
