@@ -48,6 +48,106 @@ sections:
           - pl-16
           - pb-16
           - pr-16
+  - type: CarouselSection
+    items:
+      - type: FeaturedItem
+        title: CHURCH SERVICES
+        tagline: Physical Service
+        subtitle: SUNDAY 10:00 AM - 12:30 PM
+        text: |
+          WTLT, NHLANGANO
+        image:
+          type: ImageBlock
+          url: /images/img-placeholder.svg
+          altText: Featured item
+          styles:
+            self:
+              borderRadius: medium
+        actions: []
+        colors: bg-neutralAlt-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-9
+              - pb-9
+              - pl-9
+              - pr-9
+            textAlign: left
+            borderRadius: large
+            flexDirection: row
+            justifyContent: center
+      - type: FeaturedItem
+        title: LICINISO LELAMBULIWE
+        tagline: Online Service
+        subtitle: THURSDAYS 11:00AM
+        text: |+
+          *   VOC FM 
+
+          *   FACEBOOK PAGE
+
+        image:
+          type: ImageBlock
+          url: /images/img-placeholder.svg
+          altText: Business consulting
+          elementId: ''
+          styles:
+            self:
+              borderRadius: medium
+        actions: []
+        colors: bg-dark-fg-light
+        styles:
+          self:
+            padding:
+              - pt-9
+              - pb-9
+              - pl-9
+              - pr-9
+            textAlign: left
+            borderRadius: large
+            flexDirection: row
+            justifyContent: center
+    variant: tabs-nav
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        justifyContent: center
+      subtitle:
+        textAlign: center
+  - type: GenericSection
+    title:
+      type: TitleBlock
+      text: Social Media Management
+      color: text-dark
+    subtitle: Increase your reach
+    text: >
+      A service that helps businesses to manage their social media accounts and
+      posts.
+    actions:
+      - type: Button
+        label: Get started
+        url: /
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+      - type: Link
+        label: See Tutorials
+        url: /
+        showIcon: true
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+    media:
+      type: ImageBlock
+      url: /images/hero2.svg
+      altText: Fun feature preview
+    badge:
+      type: Badge
+      label: This is a badge
+      color: text-primary
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        alignItems: center
   - type: FeaturedItemsSection
     title:
       text: Our Vision
@@ -279,9 +379,7 @@ sections:
     title: null
     subtitle: TESTIMONIALS
     items:
-      - title: >-
-          “A designer knows he has achieved perfection not when there is nothing
-          left to add, but when there is nothing left to take away.”
+      - title: “I've experienced true deliverance and freedom”
         tagline: Testimonial 1
         subtitle: Make Dlamini
         text: ''
@@ -333,15 +431,10 @@ sections:
             flexDirection: row
             justifyContent: center
         type: FeaturedItem
-      - title: >-
-          "Design is how it works, how it functions. Good design doesn't just
-          make a product aesthetically pleasing, it makes it a pleasure to use."
+      - title: '"Kumnandzi lapha"'
         tagline: Testimonial 3
-        subtitle: Maria Walters, Company
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        subtitle: Visitor
+        text: ''
         image:
           url: /images/person-placeholder-light.png
           altText: Maria Walters
