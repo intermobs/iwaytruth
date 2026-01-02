@@ -54,10 +54,8 @@ sections:
         title: Social Media Management
         tagline: Physical Service
         subtitle: Increase your reach
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: |
+          WTLT, NHLANGANO
         image:
           type: ImageBlock
           url: /images/img-placeholder.svg
