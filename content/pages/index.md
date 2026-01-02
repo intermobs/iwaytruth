@@ -51,7 +51,7 @@ sections:
   - type: CarouselSection
     items:
       - type: FeaturedItem
-        title: MAIN CHURCH SERVICES
+        title: CHURCH SERVICES
         tagline: Physical Service
         subtitle: SUNDAY 10:00 AM - 12:30 PM
         text: |
