@@ -82,10 +82,11 @@ sections:
         title: Business Consulting
         tagline: Online Service
         subtitle: Be in good company
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: |+
+          *   VOC FM 
+
+          *   FACEBOOK PAGE
+
         image:
           type: ImageBlock
           url: /images/img-placeholder.svg
