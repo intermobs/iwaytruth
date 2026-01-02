@@ -79,7 +79,7 @@ sections:
             flexDirection: row
             justifyContent: center
       - type: FeaturedItem
-        title: Business Consulting
+        title: LICINISO LELAMBULIWE
         tagline: Online Service
         subtitle: THURSDAYS 11:00AM
         text: |+
