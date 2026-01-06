@@ -1,9 +1,9 @@
 ---
-title: Pricing
-slug: pricing
+title: About
+slug: about
 sections:
   - title:
-      text: Flexible Pricing
+      text: About Us
       color: text-dark
       styles:
         self:
