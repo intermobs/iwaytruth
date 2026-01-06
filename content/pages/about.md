@@ -22,7 +22,7 @@ sections:
           url: /images/abstract-feature1.svg
           altText: Pricing plan 1
           type: ImageBlock
-        actions:
+        
         
         colors: bg-neutral-fg-dark
         styles:
