@@ -9,19 +9,15 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Details about Way Truth & Life Tabernacle
+    subtitle: This is details abput or Church
     plans:
       - title: 
         price: Who We Are
         details: 
-       description: >-
-          Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
-          accusantium doloremque.
+        description: >-
+          Way Truth and Life Tabernacle is a Christ–centered, Spirit–led ministry based in Nhlangano, Eswatini. We are a loving family of believers committed to worship, prayer, discipleship, and sharing the message of Jesus Christ with our community and beyond. Our desire is to see lives transformed through the power of the Gospel.
         features:
-          - Feature one
-          - Feature two
-          - Feature three
-          - Feature four
+          - 
         image:
           url: /images/abstract-feature1.svg
           altText: Pricing plan 1
@@ -116,8 +112,8 @@ sections:
         textAlign: center
     type: PricingSection
 seo:
-  metaTitle: Pricing - Demo site
-  metaDescription: This is the pricing page built with Netlify Create.
+  metaTitle: About - WTLT
+  metaDescription: This is the WTLT page.
   socialImage: /images/main-hero.jpg
   type: Seo
 type: PageLayout
