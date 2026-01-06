@@ -17,13 +17,24 @@ sections:
         description: >-
           Way Truth and Life Tabernacle is a Christ–centered, Spirit–led ministry based in Nhlangano, Eswatini. We are a loving family of believers committed to worship, prayer, discipleship, and sharing the message of Jesus Christ with our community and beyond. Our desire is to see lives transformed through the power of the Gospel.
         features:
-        
+        action:
+        label: Try for free
+            url: /
+            icon: arrowRight
+            iconPosition: right
+            style: secondary
+            type: Button
         image:
           url: /images/abstract-feature1.svg
           altText: Pricing plan 1
           type: ImageBlock
-        
-        
+        actions:
+          - label: Try for free
+            url: /
+            icon: arrowRight
+            iconPosition: right
+            style: secondary
+            type: Button
         colors: bg-neutral-fg-dark
         styles:
           self:
