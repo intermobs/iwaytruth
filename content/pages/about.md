@@ -11,12 +11,13 @@ sections:
       type: TitleBlock
     subtitle: This is the subtitle for the pricing section
     plans:
-      - title: Developers
-        price: Free
-        details: No credit card required
+      - title: 
+        price: Who We Are
+        details:
         description: >-
-          Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
-          accusantium doloremque.
+        Way Truth and Life Tabernacle is a Christ–centered, Spirit–led ministry based in Nhlangano, Eswatini.
+        We are a loving family of believers committed to worship, prayer, discipleship, and sharing the message
+        of Jesus Christ with our community and beyond. Our desire is to see lives transformed through the power of the Gospel.
         features:
           - Feature one
           - Feature two
@@ -116,8 +117,8 @@ sections:
         textAlign: center
     type: PricingSection
 seo:
-  metaTitle: Pricing - Demo site
-  metaDescription: This is the pricing page built with Netlify Create.
+  metaTitle:About - WTLT
+  metaDescription: This is the about page for WTLT.
   socialImage: /images/main-hero.jpg
   type: Seo
 type: PageLayout
