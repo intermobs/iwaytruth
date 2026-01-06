@@ -9,7 +9,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: This is details abput or Church
+    subtitle: This is details about or Church
     plans:
       - title: 
         price: Who We Are
@@ -23,7 +23,7 @@ sections:
           altText: Pricing plan 1
           type: ImageBlock
         actions:
-          - label: Try for free
+          - label: Join Us
             url: /
             icon: arrowRight
             iconPosition: right
@@ -39,23 +39,19 @@ sections:
               - pr-6
             borderRadius: large
         type: PricingPlan
-      - title: Professional
-        price: $99
-        details: per month
+      - title: 
+        price: Our Mission
+        details: 
         description: >-
-          Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
-          accusantium doloremque.
+          We believe in the full Gospel of Jesus Christ — salvation, healing, deliverance, and spiritual growth through the Word of God and the work of the Holy Spirit. Our mission is to raise believers who know God personally, walk in His purpose, and live out their faith daily with boldness and love.
         features:
-          - Feature one
-          - Feature two
-          - Feature three
-          - Feature four
+          - 
         image:
           url: /images/abstract-feature2.svg
           altText: Pricing plan 2
           type: ImageBlock
         actions:
-          - label: Try for free
+          - label: Support
             url: /
             icon: arrowRight
             iconPosition: right
@@ -71,18 +67,13 @@ sections:
               - pr-6
             borderRadius: large
         type: PricingPlan
-      - title: Enterprise
-        price: Custom
-        details: per month
+      - title: 
+        price: Our Pastor
+        details: 
         description: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam.
+          Apostle D Dlamini serves is the senior pastor and founder of the church. He is devoted to preaching truth, guiding believers, and shepherding God’s people with humility, care, and prophetic grace. His ministry emphasizes prayer, holiness, faith, and a deeper walk with Christ.
         features:
-          - Feature one
-          - Feature two
-          - Feature three
-          - Feature four
-          - Feature five
+          - 
         image:
           url: /images/abstract-feature3.svg
           altText: Pricing plan 3
