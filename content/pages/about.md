@@ -11,7 +11,7 @@ sections:
       type: TitleBlock
     subtitle: This is the subtitle for the pricing section
     plans:
-      - title: Who we are
+      - title: 
         price: Who We Are
         details: No credit card required
         description: >-
