@@ -11,9 +11,9 @@ sections:
       type: TitleBlock
     subtitle: This is the subtitle for the pricing section
     plans:
-      - title: Professional
-        price: $99
-        details: per month
+      - title: Developers
+        price: Free
+        details: No credit card required
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
           accusantium doloremque.
@@ -23,8 +23,8 @@ sections:
           - Feature three
           - Feature four
         image:
-          url: /images/abstract-feature2.svg
-          altText: Pricing plan 2
+          url: /images/abstract-feature1.svg
+          altText: Pricing plan 1
           type: ImageBlock
         actions:
           - label: Try for free
@@ -116,8 +116,8 @@ sections:
         textAlign: center
     type: PricingSection
 seo:
-  metaTitle:About - WTLT
-  metaDescription: This is the about page for WTLT.
+  metaTitle: Pricing - Demo site
+  metaDescription: This is the pricing page built with Netlify Create.
   socialImage: /images/main-hero.jpg
   type: Seo
 type: PageLayout
