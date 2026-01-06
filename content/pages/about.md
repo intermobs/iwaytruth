@@ -9,7 +9,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: This is the subtitle for the pricing section
+    subtitle: Details about Way Truth & Life Tabernacle
     plans:
       - title: 
         price: Who We Are
