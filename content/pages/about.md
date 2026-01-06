@@ -15,7 +15,7 @@ sections:
         price: Free
         details: No credit card required
         description: >-
-          Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
+          Sed Way Truth and Life Tabernacle is a Christ–centered, Spirit–led ministry based in Nhlangano, Eswatini. We are a loving family of believers committed to worship, prayer, discipleship, and sharing the message of Jesus Christ with our community and beyond. Our desire is to see lives transformed through the power of the Gospel.ut perspiciatis unde omnis, iste natus error sit voluptatem
           accusantium doloremque.
         features:
           - Feature one
