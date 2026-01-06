@@ -11,19 +11,20 @@ sections:
       type: TitleBlock
     subtitle: This is the subtitle for the pricing section
     plans:
-      - title: who
-        price: Who We Are
-        details: Who wer are
+      - title: Professional
+        price: $99
+        details: per month
         description: >-
-        Way Truth and Life Tabernacle is a Christ–centered, Spirit–led ministry based in Nhlangano, Eswatini. We are a loving family of believers committed to worship, prayer, discipleship, and sharing the message of Jesus Christ with our community and beyond. Our desire is to see lives transformed through the power of the Gospel.
+          Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
+          accusantium doloremque.
         features:
           - Feature one
           - Feature two
           - Feature three
           - Feature four
         image:
-          url: /images/abstract-feature1.svg
-          altText: Pricing plan 1
+          url: /images/abstract-feature2.svg
+          altText: Pricing plan 2
           type: ImageBlock
         actions:
           - label: Try for free
