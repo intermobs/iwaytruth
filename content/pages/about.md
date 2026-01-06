@@ -13,14 +13,14 @@ sections:
     plans:
       - title: 
         price: Who We Are
-        details: No credit card required
+        details: 
         description: >-
           Way Truth and Life Tabernacle is a Christ–centered, Spirit–led ministry based in Nhlangano, Eswatini. We are a loving family of believers committed to worship, prayer, discipleship, and sharing the message of Jesus Christ with our community and beyond. Our desire is to see lives transformed through the power of the Gospel.
         features:
           - Feature one
           - Feature two
           - Feature three
-          - Feature four
+          - 
         image:
           url: /images/abstract-feature1.svg
           altText: Pricing plan 1
